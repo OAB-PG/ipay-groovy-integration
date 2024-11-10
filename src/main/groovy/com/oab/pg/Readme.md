@@ -1,7 +1,3 @@
-Here's the **README** file for your **OabiPayScriptApp** Groovy code using the **PaymentPayload** object.
-
----
-
 # OabiPayScriptApp
 
 ## Overview
@@ -105,7 +101,3 @@ Error URL: http://localhost:8080/merchantPlugin/shopping/bankhosted/HostedHttpEr
 - **Encryption/Decryption Issues**: Ensure the encryption key matches the settings required by the gateway.
 - **Connection Issues**: Verify that the `paymentUrl` is accessible. Use tools like `curl` to test connectivity.
 - **Invalid Response/Error Handling**: Ensure `responseURL` and `errorURL` are set to accessible endpoints to handle payment results effectively.
-
----
-
-This README provides a detailed guide for setting up, configuring, and running the **OabiPayScriptApp** with **PaymentPayload**. Let me know if further adjustments are needed!
