@@ -1,7 +1,3 @@
-Here’s the **README** file for the common application, detailing that it belongs to Oman Arab Bank Payment Gateway and providing paths to specific integration documentation.
-
----
-
 # Oman Arab Bank Payment Gateway Integration
 
 ## Overview
