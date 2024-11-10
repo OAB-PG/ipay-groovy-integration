@@ -1,0 +1,80 @@
+# Ignore IntelliJ IDEA specific files and directories
+.idea/
+*.iml
+*.iws
+out/
+target/
+classes/
+logs/
+
+# Ignore build directories
+/build/
+/out/
+/target/
+
+# Ignore Maven and Gradle specific files
+.mvn/
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+**/mvnw
+**/mvnw.cmd
+.gradle/
+/build/
+**/build/
+.gradle/
+/**/build/
+
+# Ignore project-specific config
+*.ipr
+*.iws
+*.iml
+*.idea
+
+# Ignore IntelliJ workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/compiler.xml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+# Ignore IntelliJ IDEA code style and other settings files
+.idea/misc.xml
+.idea/codeStyles/
+.idea/assetWizardSettings.xml
+
+# Ignore user-specific settings
+.idea/codeStyles/Project.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/.name
+.idea/shelf/
+.idea/httpRequests
+
+# Ignore temporary files
+*.class
+*.log
+*.swp
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+*.DS_Store
+*.AppleDouble
+.LSOverride
+
+# Ignore Java IDE metadata files
+*.classpath
+*.project
+*.settings/
+.classpath
+.project
+.settings/
+tmp/
+temp/
+.cache/
