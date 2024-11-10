@@ -1,7 +1,3 @@
-Here’s the updated **README** reflecting the change from **PaymentRequest** to **PaymentPayload**.
-
----
-
 # OabiPayScriptApp
 
 ## Overview
@@ -111,7 +107,3 @@ Authorization Code: 061632
 - **Encryption/Decryption Issues**: Ensure the encryption key matches the gateway’s decryption settings.
 - **Network Connectivity**: Confirm that `paymentUrl` is accessible.
 - **Invalid Response/Error Handling**: Ensure valid URLs for `responseURL` and `errorURL` to handle results effectively.
-
----
-
-This README now reflects the change from **PaymentRequest** to **PaymentPayload**. Let me know if there are any further adjustments needed!
